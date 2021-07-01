@@ -24,3 +24,5 @@
 - [Getting Started](https://www.howtographql.com/graphql-js/1-getting-started/)
 - [A Simple Query](https://www.howtographql.com/graphql-js/2-a-simple-query/)
 - [A Simple Mutation](https://www.howtographql.com/graphql-js/3-a-simple-mutation/)
+- [Adding a Database](https://www.howtographql.com/graphql-js/4-adding-a-database/)
+- [Connecting The Server and Database with Prisma Client](https://www.howtographql.com/graphql-js/5-connecting-server-and-database/)
