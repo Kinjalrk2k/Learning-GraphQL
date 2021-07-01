@@ -23,3 +23,4 @@
 - [Introduction](https://www.howtographql.com/graphql-js/0-introduction/)
 - [Getting Started](https://www.howtographql.com/graphql-js/1-getting-started/)
 - [A Simple Query](https://www.howtographql.com/graphql-js/2-a-simple-query/)
+- [A Simple Mutation](https://www.howtographql.com/graphql-js/3-a-simple-mutation/)
