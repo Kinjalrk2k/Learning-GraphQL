@@ -16,6 +16,7 @@ model Link {
   description String
   url         String
   postedById  Int?
+  votes       Vote[]
 
   postedBy User? @relation(fields: [postedById], references: [id])
 }
@@ -26,4 +27,16 @@ model User {
   email    String @unique
   password String
   links    Link[]
+  Vote     Vote[]
+}
+
+model Vote {
+  id     Int @id @default(autoincrement())
+  linkId Int
+  userId Int
+
+  link Link @relation(fields: [linkId], references: [id])
+  user User @relation(fields: [userId], references: [id])
+
+  @@unique([linkId, userId])
 }
