@@ -16,9 +16,7 @@
 - [Security](https://www.howtographql.com/advanced/4-security/)
 - [Common Questions](https://www.howtographql.com/advanced/5-common-questions/)
 
-# Server
-
-## GraphQL + NodeJS
+## Server (GraphQL + NodeJS)
 
 - [Introduction](https://www.howtographql.com/graphql-js/0-introduction/)
 - [Getting Started](https://www.howtographql.com/graphql-js/1-getting-started/)
@@ -30,3 +28,8 @@
 - [Realtime GraphQL Subscriptions](https://www.howtographql.com/graphql-js/7-subscriptions/)
 - [Filtering, Pagination & Sorting](https://www.howtographql.com/graphql-js/8-filtering-pagination-and-sorting/)
 - [Summary](https://www.howtographql.com/graphql-js/9-summary/)
+
+## Client (React + Apollo)
+
+- [Introduction](https://www.howtographql.com/react-apollo/0-introduction/)
+- [Getting Started](https://www.howtographql.com/react-apollo/1-getting-started/)

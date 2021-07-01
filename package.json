@@ -1,0 +1,22 @@
+{
+  "name": "hackernews",
+  "version": "1.0.0",
+  "description": "Learning GraphQL through a hackernews clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "cd server && npm start",
+    "client": "cd client && yarn start",
+    "prisma:studio": "cd server && npx prisma studio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kinjalrk2k/Learn-GraphQL.git"
+  },
+  "author": "Kinjal Raykarmakar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kinjalrk2k/Learn-GraphQL/issues"
+  },
+  "homepage": "https://github.com/Kinjalrk2k/Learn-GraphQL#readme"
+}
