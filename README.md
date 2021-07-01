@@ -28,3 +28,5 @@
 - [Connecting The Server and Database with Prisma Client](https://www.howtographql.com/graphql-js/5-connecting-server-and-database/)
 - [Authentication](https://www.howtographql.com/graphql-js/6-authentication/)
 - [Realtime GraphQL Subscriptions](https://www.howtographql.com/graphql-js/7-subscriptions/)
+- [Filtering, Pagination & Sorting](https://www.howtographql.com/graphql-js/8-filtering-pagination-and-sorting/)
+- [Summary](https://www.howtographql.com/graphql-js/9-summary/)
