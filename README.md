@@ -26,3 +26,4 @@
 - [A Simple Mutation](https://www.howtographql.com/graphql-js/3-a-simple-mutation/)
 - [Adding a Database](https://www.howtographql.com/graphql-js/4-adding-a-database/)
 - [Connecting The Server and Database with Prisma Client](https://www.howtographql.com/graphql-js/5-connecting-server-and-database/)
+- [Authentication](https://www.howtographql.com/graphql-js/6-authentication/)
