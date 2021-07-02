@@ -39,3 +39,4 @@
 - [Authentication](https://www.howtographql.com/react-apollo/5-authentication/)
 - [More Mutations and Updating the Store](https://www.howtographql.com/react-apollo/6-more-mutations-and-updating-the-store/)
 - [Filtering: Searching the List of Links](https://www.howtographql.com/react-apollo/7-filtering-searching-the-list-of-links/)
+- [Realtime Updates with GraphQL Subscriptions](https://www.howtographql.com/react-apollo/8-subscriptions/)
