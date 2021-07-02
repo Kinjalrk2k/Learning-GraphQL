@@ -41,3 +41,4 @@
 - [Filtering: Searching the List of Links](https://www.howtographql.com/react-apollo/7-filtering-searching-the-list-of-links/)
 - [Realtime Updates with GraphQL Subscriptions](https://www.howtographql.com/react-apollo/8-subscriptions/)
 - [Pagination](https://www.howtographql.com/react-apollo/9-pagination/)
+- [Summary](https://www.howtographql.com/react-apollo/10-summary/)
