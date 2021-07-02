@@ -33,3 +33,4 @@
 
 - [Introduction](https://www.howtographql.com/react-apollo/0-introduction/)
 - [Getting Started](https://www.howtographql.com/react-apollo/1-getting-started/)
+- [Queries: Loading Links](https://www.howtographql.com/react-apollo/2-queries-loading-links/)
